@@ -6,10 +6,10 @@
 
 <div>
     <a href="https://github.com/Pamella-Roque/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pamella-Roque&theme=transparent&rank_icon=github" />
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Pamella-Roque&theme=transparent&rank_icon=github" />
     </a>
     <a href="https://github.com/Pamella-Roque/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pamella-Roque&layout=compact&langs_count=8&theme=transparent" />
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pamella-Roque&layout=compact&langs_count=8&theme=transparent" />
     </a>
 </div>
 
