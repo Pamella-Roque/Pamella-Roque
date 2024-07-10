@@ -2,9 +2,9 @@
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&width=1000&lines=Olá,+Eu+sou+a+PAMELLA+ROQUE;Estou+no+5º+período+de+Engenharia+da+computação;Seja+bem+vindo(a)!!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&width=1000&lines=Olá,+eu+sou+a+Pâmella+Roque;Estou+no+6º+período+de+engenharia+da+computação;Seja+bem+vindo(a)!!!+:%29)](https://git.io/typing-svg)
 
-<div>
+<div align="center">
     <a href="https://github.com/Pamella-Roque/github-readme-stats">
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Pamella-Roque&theme=transparent&rank_icon=github" />
     </a>
